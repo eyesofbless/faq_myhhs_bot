@@ -27,8 +27,6 @@ CONTACT_USERNAME = "@your_username"  # Юзернейм для связи
 
 logging.basicConfig(level=logging.INFO)
 
-
-
 bot = Bot(token=BOT_TOKEN)
 
 dp = Dispatcher()
